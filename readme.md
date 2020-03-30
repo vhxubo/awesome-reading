@@ -31,6 +31,11 @@
 - [SiteD 插件收集站](http://sited.noear.org/) - 多多猫官方插件商城
   - [SiteD 独立插件中心](http://sited.ka94.com/) - 真正的老司机，不会翻车。
 - [源仓库](http://ku.mumuceo.com/) - 包含阅读、异次元、[海阔] 视界/影视、M 浏览器
+- [阅读 3.0 订阅(Legado)](http://alanskycn.gitee.io/vip/)
+  - [内置订阅源](https://gitee.com/alanskycn/yuedu/raw/master/JS/RSS/RssImport.json)
+  - [精品书源](http://alanskycn.gitee.io/vip/bk/B1.html)
+  - [精品音频源](http://alanskycn.gitee.io/vip/bk/A1.html)
+  - [订阅源](http://alanskycn.gitee.io/vip/rss/R1.html)
 - [chimisgo/BookSourceRepository](https://github.com/chimisgo/BookSourceRepository) - 官方书源示例仓库
   - [chuner821/deepink](https://github.com/chuner821/deepink)
   - [Jackiu1997/JackiuDeepInkSource](https://github.com/Jackiu1997/JackiuDeepInkSource)
@@ -54,6 +59,7 @@
   - [sited（多多猫）插件开发](https://www.huangyunkun.com/2017/04/15/sited-duoduocat-plugin-development/) - htynkn
   - [插件开发指南](https://zhuanlan.zhihu.com/p/25259467) - 来自知乎用户：深红
 - [厚墨](https://chimisgo.gitbook.io/booksource/) - 官方书源教程
+- [阅读 3.0(Legado)规则说明](https://celeter.github.io/)
 
 ## 网站
 
