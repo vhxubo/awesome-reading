@@ -8,7 +8,9 @@
 - [工具](#工具)
 - [插件/书源](#插件书源)
 - [教程](#教程)
-- [网站](#网站)
+- [博客](#博客)
+- [小说网站](#小说网站)
+- [书单](#书单)
 - [排版](#排版)
 
 ## 应用
@@ -25,6 +27,7 @@
 
 - [zsakvo/YueduAssistant](https://github.com/zsakvo/YueduAssistant) - 「阅读」助手，会不定期增加一些和「阅读」有关的功能
 - [zsakvo/web-yuedu](https://github.com/zsakvo/web-yuedu) - 一个仿起点中文网的 web 阅读前端 dmeo
+- [deepink.schema](https://raw.githubusercontent.com/vhxubo/NBSR/master/schema.json) - 厚墨书源规范字段：悬浮提示、验证字段格式 [使用方法](https://github.com/vhxubo/NBSR/blob/master/README.md)
 
 ## 插件/书源
 
@@ -36,13 +39,13 @@
   - [精品书源](http://alanskycn.gitee.io/vip/bk/B1.html)
   - [精品音频源](http://alanskycn.gitee.io/vip/bk/A1.html)
   - [订阅源](http://alanskycn.gitee.io/vip/rss/R1.html)
-- [chimisgo/BookSourceRepository](https://github.com/chimisgo/BookSourceRepository) - 官方书源示例仓库
-  - [chuner821/deepink](https://github.com/chuner821/deepink)
+- [chimisgo/BookSourceRepository](https://github.com/chimisgo/BookSourceRepository) - 厚墨官方书源示例仓库
+  - [chuner821/deepink](https://github.com/chuner821/deepink) - 纯二的书源仓库
   - [Jackiu1997/JackiuDeepInkSource](https://github.com/Jackiu1997/JackiuDeepInkSource)
   - [Wenmoux/deeplink-booksource](https://github.com/Wenmoux/deeplink-booksource)
   - [17303772831/BookSourceRepository](https://github.com/17303772831/BookSourceRepository)
   - [258a/Akoasm](https://github.com/258a/Akoasm)
-  - [vhxubo/NBSR](https://github.com/vhxubo/NBSR)
+  - [vhxubo/NBSR](https://github.com/vhxubo/NBSR) - 归谜的书源仓库
   - [jiyiv5/xhm_sy](https://github.com/jiyiv5/xhm_sy)
   - [kaitl/BookSource](https://github.com/kaitl/BookSource)
   - [qingy1/deeplink-booksource](https://github.com/qingy1/deeplink-booksource)
@@ -61,9 +64,50 @@
 - [厚墨](https://chimisgo.gitbook.io/booksource/) - 官方书源教程
 - [阅读 3.0(Legado)规则说明](https://celeter.github.io/)
 
-## 网站
+## 博客
 
 - [菜鸟码农](https://www.hostfans.cn/) - 阅读 APP 爱好者聚集地！
+
+## 小说网站
+
+- [晋江文学城](http://www.jjwxc.net/)
+- [起点中文网](http://www.qidian.com/)
+- [纵横中文网](http://www.zongheng.com/)
+- [WUXIAWORLD](http://www.wuxiaworld.com/) - 英文版武侠小说(中译英)
+- [九桃小说](http://www.9txs.com/)
+- [落霞小说](http://www.luoxia.com/)
+- [作品集](http://zuopinj.com/)
+
+## 书单
+
+- 网文
+  - [优书网](https://www.yousuu.com/booklists/)
+  - [鲸鱼阅读](http://pst.jingyu.com/subject)
+  - [龙空书单](http://www.lkong.net/forum.php?mod=forumdisplay&fid=60&filter=typeid&typeid=177)
+  - [作品集(综合类)](http://zuopinj.com/sd/index_2.html)
+  - [读书爱享](https://www.msooso.com/list-t.html)
+  - [起点书单](https://my.qidian.com/user/222949927?targetTab=0)
+  - [52 书库](https://www.52shuku.me/tuijian/)
+  - [91baby](https://91baby.mama.cn/forum-221-1.html)
+- 学习
+  - [牛客](https://www.nowcoder.com/library/book-list)
+  - [资源库](https://www.skebooks.com/scheme/list)
+- 励志
+  - [点点书网](http://www.gezhongshu.com/forum.php?mod=forumdisplay&fid=65)
+  - [每日书单](https://shudan.vip/)
+- 经典小说
+  - [专题书单 - 中央财经大学图书馆](http://lib.cufe.edu.cn/list.php?fid=139)
+- 古典小说
+  - [明清小说](http://www.mingqingxiaoshuo.com/shudan/)
+- 综合
+  - [读书推荐](https://www.dstj.cn/)
+- 轻小说
+  - [不可能的世界](https://www.8kana.com/www/booklist/channel)
+- 生活
+  - [荐书堂](http://www.book110.com/)
+  - [无忧考](https://www.51test.net/xiaoyuan/shudan/)
+  - [简书](https://www.jianshu.com/c/97becab9817a)
+  - [温读](http://fondread.com/)
 
 ## 排版
 
