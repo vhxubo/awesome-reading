@@ -25,9 +25,10 @@
 
 ## 工具
 
+- [deepink.schema](https://raw.githubusercontent.com/vhxubo/NBSR/master/schema.json) - 厚墨书源规范字段：悬浮提示、验证字段格式 [使用方法](https://github.com/vhxubo/NBSR/blob/master/README.md)
+- [XIU2/yuedu](https://github.com/XIU2/yuedu) - 「阅读」APP 精品书源
 - [zsakvo/YueduAssistant](https://github.com/zsakvo/YueduAssistant) - 「阅读」助手，会不定期增加一些和「阅读」有关的功能
 - [zsakvo/web-yuedu](https://github.com/zsakvo/web-yuedu) - 一个仿起点中文网的 web 阅读前端 dmeo
-- [deepink.schema](https://raw.githubusercontent.com/vhxubo/NBSR/master/schema.json) - 厚墨书源规范字段：悬浮提示、验证字段格式 [使用方法](https://github.com/vhxubo/NBSR/blob/master/README.md)
 
 ## 插件/书源
 
@@ -39,6 +40,7 @@
   - [精品书源](http://alanskycn.gitee.io/vip/bk/B1.html)
   - [精品音频源](http://alanskycn.gitee.io/vip/bk/A1.html)
   - [订阅源](http://alanskycn.gitee.io/vip/rss/R1.html)
+- [关于书源 V2](https://gitee.com/chuner821/zhibo/blob/master/%E4%B9%A6%E6%BA%90V2.md) - 厚墨书源介绍(收集了书源导入网址)
 - [chimisgo/BookSourceRepository](https://github.com/chimisgo/BookSourceRepository) - 厚墨官方书源示例仓库
   - [chuner821/deepink](https://github.com/chuner821/deepink) - 纯二的书源仓库
   - [Jackiu1997/JackiuDeepInkSource](https://github.com/Jackiu1997/JackiuDeepInkSource)
@@ -62,7 +64,10 @@
   - [sited（多多猫）插件开发](https://www.huangyunkun.com/2017/04/15/sited-duoduocat-plugin-development/) - htynkn
   - [插件开发指南](https://zhuanlan.zhihu.com/p/25259467) - 来自知乎用户：深红
 - [厚墨](https://chimisgo.gitbook.io/booksource/) - 官方书源教程
-- [阅读 3.0(Legado)规则说明](https://celeter.github.io/)
+- [阅读](http://www.legado.top/) - 官方网站
+  - [书源规则](http://www.legado.top/MyBookshelf/sourcerule.html)
+  - [书源编辑器](http://www.legado.top/MyBookshelf/sourceEdit/index.html)
+  - [阅读 3.0(Legado)规则说明](https://celeter.github.io/)
 
 ## 博客
 
