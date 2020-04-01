@@ -10,6 +10,7 @@
 - [教程](#教程)
 - [博客](#博客)
 - [小说网站](#小说网站)
+- [电子书下载](#电子书下载)
 - [书单](#书单)
 - [排版](#排版)
 
@@ -20,8 +21,8 @@
 - [gedoor/MyBookshelf](https://github.com/gedoor/MyBookshelf) - 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
   - [gedoor/legado](https://github.com/gedoor/legado) - 阅读 3.0
   - [gedoor/YueDuFlutter](https://github.com/gedoor/YueDuFlutter) - 阅读 Flutter 版
-- [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
-- [howie6879/owllook](https://github.com/howie6879/owllook) - 在线网络小说阅读网站&小说搜索引擎&小说推荐系统[搜索、追书、收藏、追更、小说 API
+- [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 (SimpRead) - 让你瞬间进入沉浸式阅读的扩展
+- [howie6879/owllook](https://github.com/howie6879/owllook) - 在线网络小说阅读网站&小说搜索引擎&小说推荐系统[搜索、追书、收藏、追更、小说 API]
 
 ## 工具
 
@@ -61,7 +62,7 @@
 - [多多猫](http://ddcat.noear.org/help/android.htm) - 多多猫新手指南
   - [开发文档](http://sited.noear.org/img/sited_dev_34_66.pdf) - 官方插件开发文档
   - [插件开发指南](https://www.kancloud.cn/magicdmer/ddcat_plugin_develop/) - 最详细的开发指南，开发群协作
-  - [sited（多多猫）插件开发](https://www.huangyunkun.com/2017/04/15/sited-duoduocat-plugin-development/) - htynkn
+  - [sited(多多猫)插件开发](https://www.huangyunkun.com/2017/04/15/sited-duoduocat-plugin-development/) - htynkn
   - [插件开发指南](https://zhuanlan.zhihu.com/p/25259467) - 来自知乎用户：深红
 - [厚墨](https://chimisgo.gitbook.io/booksource/) - 官方书源教程
 - [阅读](http://www.legado.top/) - 官方网站
@@ -82,6 +83,20 @@
 - [九桃小说](http://www.9txs.com/)
 - [落霞小说](http://www.luoxia.com/)
 - [作品集](http://zuopinj.com/)
+
+## 电子书下载
+
+- [鸠摩搜书](https://www.jiumodiary.com/)
+- [Kindleer](https://kindleer.com/)
+- [智奇搜书](https://zqbook.top/)
+- [i-book](https://book.tstrs.me/)
+- [时宜搜书](https://shiyidiary.ztianzeng.com/)
+- [PDF 之家](http://www.pdfzj.com/)
+- [田间小站](https://www.tianfateng.cn/)
+- [高清杂志网](http://www.gqzzw.com/)
+- [一格小站](https://yigeplus.top/)
+- [走盘杂志](https://www.zoupan.com/category/mianfeizazhi/)
+- [若蓝格](https://www.ifblue.net/)
 
 ## 书单
 
